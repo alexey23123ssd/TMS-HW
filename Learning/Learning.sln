@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntryPoint", "EntryPoint\En
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WriterLibrary", "WriterLibrary\WriterLibrary.csproj", "{031BE16F-A81E-4007-8293-4B381B052AD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "explore", "explore\explore.csproj", "{BC32FA2F-611C-410B-877E-2E5C6DDBD408}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{E5051687-DA83-4C3E-A2F0-4A264038D204}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{031BE16F-A81E-4007-8293-4B381B052AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{031BE16F-A81E-4007-8293-4B381B052AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{031BE16F-A81E-4007-8293-4B381B052AD4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BC32FA2F-611C-410B-877E-2E5C6DDBD408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BC32FA2F-611C-410B-877E-2E5C6DDBD408}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BC32FA2F-611C-410B-877E-2E5C6DDBD408}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BC32FA2F-611C-410B-877E-2E5C6DDBD408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5051687-DA83-4C3E-A2F0-4A264038D204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5051687-DA83-4C3E-A2F0-4A264038D204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5051687-DA83-4C3E-A2F0-4A264038D204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5051687-DA83-4C3E-A2F0-4A264038D204}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
